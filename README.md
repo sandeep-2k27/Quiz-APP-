@@ -66,8 +66,7 @@ Quiz-App/
 │
 ├── index.html
 ├── style.css
-├── script.js
-├── questions.js
+├── index.js
 └── README.md
 ```
 
